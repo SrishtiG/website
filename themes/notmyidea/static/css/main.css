@@ -186,16 +186,18 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
-		margin: 0 auto 2em auto;
-		padding: 0;
 		text-align: center;
 		width: 900px;
+		}
 		
-		border-radius: 5px;
-		-moz-border-radius: 5px;
-		-webkit-border-radius: 5px;
+	.nav {
+		text-align= centre;
 	}
 	
+	.nav li {
+    		display:inline;
+	}
+
 	#banner nav ul {list-style: none; margin: 0 auto; width: 900px;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 	
